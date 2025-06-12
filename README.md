@@ -29,7 +29,9 @@ This demo dashboard used simulated (fake) datasets. All site info is publicly av
 ![](ETL3.png)
 
 ## Demo
-
+[View the PDF document](FEAT_Dashboard_Demo.pdf)
+![](dashboard1.png)
+![](dashboard2.png)
 
 ## Key Metrics
 ![](keymetrics4.png)
@@ -51,5 +53,5 @@ REDCap EDC
 REDCap API, Jupypter Notebook - Python, PowerBI, Excel
 
 ## References
-[REDCap](https://projectredcap.org/)
+[REDCap](https://projectredcap.org/) <br> 
 [Vanderbilt Coordinating Center](https://vcc.vumc.org/)

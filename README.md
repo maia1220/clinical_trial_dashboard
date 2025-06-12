@@ -36,7 +36,7 @@ This demo dashboard used simulated (fake) datasets. All site info is publicly av
 
 ## Why not direct REDCap to PowerBI connection? 
 I didn't present this slide at the conference due to time limit. 
-![](directconn.png)
+![](directconn6.png)
 
 ## Conclusion
 ![](conclusion5.png)

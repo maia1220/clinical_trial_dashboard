@@ -6,10 +6,14 @@
 ## Presentation Title 
 REDCap Interesting Use Case: Efficient Data Workflow Automation: Integrating REDCap API, Python, and PowerBI for Seamless & Real-time Multicenter Clinical Trials Reporting
 
-#### Online Recording: 
-[Click link:](https://redcap.vumc.org/surveys/?__report=DTT7NHH8XYAFNTPL)
+## Featuring:
+Framing Eighteen Coils in Cerebral Aneurysms Trial (FEAT)
 
-#### Presentation Slides:
+
+#### Online Recording
+[Click here](https://redcap.vumc.org/surveys/?__report=DTT7NHH8XYAFNTPL)
+
+#### Presentation Slides
 [View the PDF document](REDCapFest_AllyQi_2.17.2024.pdf)
 
 ## Disclaimer
@@ -30,8 +34,15 @@ This demo dashboard used simulated (fake) datasets. All site info is publicly av
 ## Key Metrics
 ![](keymetrics4.png)
 
+## Why not direct REDCap to PowerBI connection? 
+I didn't present this slide at the conference due to time limit. 
+![](directconn.png)
+
 ## Conclusion
 ![](conclusion5.png)
+
+## Acknowledgment
+![](credits7.png)
 
 ## Data Source
 REDCap EDC
@@ -40,4 +51,5 @@ REDCap EDC
 REDCap API, Jupypter Notebook - Python, PowerBI, Excel
 
 ## References
-
+[REDCap](https://projectredcap.org/)
+[Vanderbilt Coordinating Center](https://vcc.vumc.org/)
